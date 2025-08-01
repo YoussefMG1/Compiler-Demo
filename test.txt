@@ -1,0 +1,14 @@
+IfTrue(x=4+k/5)
+Otherwise x = 6
+Turnback x=9+3;
+Stop ;
+Turnback x=z=9+3;
+Stop x=3;
+"eljl" hi 
+Reiterate (Imw num = 5;Imw num = 5;Imw num = 5){
+Reiterate (Imw num = 5;Imw num = 5;Imw num = 5){
+Reiterate (;;){
+RepeatWhen (  )
+
+RepeatWhen (x >= 0){
+}
